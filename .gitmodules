@@ -1,0 +1,7 @@
+[submodule "themes/hugo-fresh"]
+	path = themes/hugo-fresh
+	url = git@github.com:sps-zone-1/hugo-fresh.git
+[submodule "public"]
+	path = public
+	url = git@github.com:sps-zone-1/sps-zone-1.github.io.git
+	branch = master
