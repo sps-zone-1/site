@@ -2,7 +2,11 @@
 
 ## Adding Pages 
 
-Modify the pages in `/contents`.
+Modify the pages in `/contents`. Set `draft = "True"` to keep a page in draft mode (i.e. not visible), which might be useful when multiple people are working on pages that are not yet ready to display on the public site. 
+
+## Testing changes locally
+
+Run `hugo server` in the root level of this repo to host the site locally. **Please always do this before deploying!!**
 
 ## Deploying to the Public Site
 
@@ -14,4 +18,4 @@ Run `/update-project.sh` to push change in this site generating repository.
 
 ## Update changes to the theme
 
-Run `/update-theme.sh` to push changes to the `sps-yale/hugo-fresh` forked repository submodule within the `/themes/hugo-fresh` folder of this repository. 
+Run `/update-theme.sh` to push changes to the `sps-zone-1/hugo-whisper-theme` forked repository submodule within the `/themes/hugo-whisper-theme` folder of this repository. 

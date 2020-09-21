@@ -6,7 +6,7 @@ set -e
 printf "\033[0;32mDeploying updates to public site...\033[0m\n"
 
 # Build the project.
-hugo -t hugo-fresh # if using a theme, replace with `hugo -t <YOURTHEME>`
+hugo -t hugo-whisper-theme # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
 cd public

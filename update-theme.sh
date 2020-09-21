@@ -6,7 +6,7 @@ set -e
 printf "\033[0;32mDeploying updates to theme...\033[0m\n"
 
 # Go To Public folder
-cd themes/hugo-fresh
+cd themes/hugo-whisper-theme
 
 # Add changes to git.
 git add .

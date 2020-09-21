@@ -5,3 +5,6 @@
 	path = public
 	url = git@github.com:sps-zone-1/sps-zone-1.github.io.git
 	branch = master
+[submodule "themes/hugo-whisper-theme"]
+	path = themes/hugo-whisper-theme
+	url = https://github.com/sps-zone-1/hugo-whisper-theme
