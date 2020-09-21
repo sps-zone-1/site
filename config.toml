@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "SPS Zone 1"
 theme = "hugo-whisper-theme"
 
+enableEmoji = true # use https://www.webfx.com/tools/emoji-cheat-sheet/
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
@@ -12,36 +13,49 @@ pygmentsUseClasses = true
 summaryLength = 30
 
 [[menu.main]]
-    name = "Home"
+    name = "About"
     url = "/"
     weight = 1
 
 [[menu.main]]
-    name = "Docs"
-    url = "/docs/"
+    name = "Zone Meeting"
+    url = "/zone-meeting/"
     weight = 2
 
+[[menu.main]]
+    name = "Resources"
+    url = "/resources/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+
 [params]
+  mainSections = ["zone-meeting", "resources", "contact"] #make sure to add new pages to the mainSections!!
+
   google_analytics_id=""
-  homepage_button_link = '/docs'
-  homepage_button_text = 'Read The Docs'
-  homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
-  homepage_image = '/images/terminal.gif'
+  homepage_button_link = '/zone-meeting'
+  homepage_button_text = 'Zone Meeting Sign-up and Information'
+  homepage_intro = 'This is the Society of Physics Students Zone 1 site.'
+  homepage_image = '/images/sps.gif'
 
   ## You can enable to add anchor links to header elements
   # enable_anchor_link = true
 
   [params.homepage_meta_tags]
-    meta_description = "Hugo Whisper is a documentation theme built with Hugo."
-    meta_og_title = "Hugo Whisper Theme"
+    meta_description = "This is the official website of the Society of Physics Students Zone 1."
+    meta_og_title = "Society of Physics Students Zone 1"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-whisper.netlify.app"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
-    meta_og_description = "Hugo Whisper is a documentation theme built with Hugo."
-    meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_og_url = "https://sps-zone-1.github.io"
+    meta_og_image = '/images/sps.gif'
+    meta_og_description = "This is the official website of the Society of Physics Students Zone 1."
+    # meta_twitter_card = "summary"
+    # meta_twitter_site = "@zerostaticio"
+    # meta_twitter_creator = "@zerostaticio"
 
   [params.logo]
-      mobile = "/images/logo-mobile.svg"
-      standard  = "/images/logo.svg"
+      mobile = "/images/logo.gif"
+      standard  = "/images/logo.gif"
