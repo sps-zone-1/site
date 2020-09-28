@@ -10,7 +10,7 @@ _Please note that all times are listed in **Eastern Time**._
 # October 23rd
 
 ### Bad-Physics-Movie Night *(7:00PM - 9:00PM)*
-*This is will kick off the Zone 1 Fall Chapter meeting. Chat with members from fellow SPS Clubs on [gather.town](https://gather.town/) while **peer-reviewing some of the worst Physics in cinematic history**. Feel free to also play online games like: [skribbl.io](https://skribbl.io/), [spyfall.app](https://www.spyfall.app/), Physics Jeopardy, and more!*
+*This is will kick off the Zone 1 Fall Chapter meeting. Chat with members from fellow SPS Clubs on [gather.town](https://gather.town/) while **peer-reviewing some of the worst Physics in cinematic history**. Feel free to also play online games like: [skribbl.io](https://skribbl.io/), [spyfall.app](https://www.spyfall.app/), [playingcards.io](https://playingcards.io/), Physics Jeopardy, and more!*
 
 # October 24th
 
