@@ -36,7 +36,7 @@ _Please note that all times are listed in **Eastern Time**._
 * [*Meg Urry (Yale)*](https://en.wikipedia.org/wiki/Meg_Urry)
 * [*Reina Maruyama (Yale)*](https://physics.yale.edu/people/reina-maruyama)
 * [*Nikhil Padmanabhan (Yale)*](https://morse.yalecollege.yale.edu/nikhil-padmanabhan)
-* [*Jim Valles (Yale)*](https://vivo.brown.edu/display/jvallesj)
+* [*Jim Valles (Brown)*](https://vivo.brown.edu/display/jvallesj)
 
 ### Social *(4:00PM - 5:00PM+)*
 
