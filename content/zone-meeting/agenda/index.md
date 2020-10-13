@@ -9,8 +9,10 @@ _Please note that all times are listed in **Eastern Time**._
 
 # October 23rd
 
-### Bad-Physics-Movie Night *(7:00PM - 9:00PM)*
-*This is will kick off the Zone 1 Fall Chapter meeting. Chat with members from fellow SPS Clubs on [gather.town](https://gather.town/) while **peer-reviewing some of the worst Physics in cinematic history**. Feel free to also play online games like: [skribbl.io](https://skribbl.io/), [spyfall.app](https://www.spyfall.app/), [playingcards.io](https://playingcards.io/), Physics Jeopardy, and more!*
+### Game Night *(7:00PM - 9:00PM)*
+*This is will kick off the Zone 1 Fall Chapter meeting. Chat with members from fellow SPS Clubs on [gather.town](https://gather.town/) while also playing online games like: [skribbl.io](https://skribbl.io/), [spyfall.app](https://www.spyfall.app/), [playingcards.io](https://playingcards.io/), Physics Jeopardy, and more!*
+
+<!-- while **peer-reviewing some of the worst Physics in cinematic history**. Feel free to -->
 
 # October 24th
 
@@ -31,6 +33,8 @@ _Please note that all times are listed in **Eastern Time**._
 
 
 ### Diversity and Inclusion Panel *(3:00PM - 4:00PM)*
+
+*Check out some wonderful resources [here](https://sps-zone-1.github.io/resources/underrepresented-groups/).*
 
 *The final formal event for the Fall 2020 Zone 1 meeting will be a panel discussion between Professors from co-hosts Yale and Brown on the topic of Diversity and Inclusion in Physics. The panel list will include esteemed Professors:*
 * [*Meg Urry (Yale)*](https://en.wikipedia.org/wiki/Meg_Urry)
