@@ -4,6 +4,7 @@ date: 2020-09-21
 weight: 2
 summary: 'Events spanning Oct 23, 24. Socializing, research presentations, keynote, panels..'
 ---
+_**Please find the event's zoom rooms, gather.town links, and associated  passwords on this [spreadsheet.](https://docs.google.com/spreadsheets/d/1v5hcJ9M1AlTEdyfVNdemrXwr_VBYVHABKns39PQ5o_M/edit#gid=0)** Please note that you need to fill out the registration [**form**](https://forms.gle/UZhfrT3aMHePZNeg7) to access this spreadsheet._
 
 _Please note that all times are listed in **Eastern Time**._
 
