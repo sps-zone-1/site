@@ -11,6 +11,10 @@ hugo -t hugo-whisper-theme # if using a theme, replace with `hugo -t <YOURTHEME>
 # Go To Public folder
 cd public
 
+# Stopping CRLF to LF conversion
+git config --local core.autocrlf false
+
+
 # Add changes to git.
 git add .
 
