@@ -3,8 +3,13 @@
 # If a command fails then the deploy stops
 set -e
 
-printf "\033[0;32mDeploying updates to project repo...\033[0m\n"
+printf "\033[0;32mDeploying updates to theme...\033[0m\n"
 
+# Go To Public folder
+cd themes/hugo-whisper-theme
+
+# Stopping CRLF to LF conversion
+git config --local core.autocrlf false
 
 # Add changes to git.
 git add .
