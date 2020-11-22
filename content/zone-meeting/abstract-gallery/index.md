@@ -7,7 +7,7 @@ summary: 'View submitted presentations!'
 
 ## Presentation Gallery
 
-*Here are the submitted and accepted presentations:* 
+*Here are some of the submitted and accepted presentations:* 
 
 ---
 
@@ -107,7 +107,7 @@ _University of Massachusetts_
 
 "Excited states in Scandium isotopes have been populated following the fusion-evaporation of 14C at 45 MeV impinged on a thin 36S target with a Ag backing at the John D. Fox Superconducting Laboratory at Florida State University.  The evaporation channels were selected with a zero degree particle telescope while emitted gamma radiation was detected with a mixed array of Clover and single coaxial HPGe detectors. The observed level schemes of [48-45]Sc will be presented from coincident data. Results will be discussed and contrasted against single
 particle shell model results. "
-<!-- **Name**, 
+<!--  **Name**, 
 _College_
 
 *Abstract:*
