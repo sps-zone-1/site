@@ -19,3 +19,13 @@ Run `/update-project.sh` to push change in this site generating repository.
 ## Update changes to the theme
 
 Run `/update-theme.sh` to push changes to the `sps-zone-1/hugo-whisper-theme` forked repository submodule within the `/themes/hugo-whisper-theme` folder of this repository. 
+
+## Updating the site as a Windows user
+
+Follow the above steps but run '/update-public-windows.sh' to build and deploy the site. Then run '/update-project-windows.sh' to push your changes. Similarly, if updating the theme run '/update-theme-windows.sh'.
+
+This is because the windows files use CRLF endings, rather than LF endings (so that they can run on Windows). The autocrlf line stops the conversion of the files to LF format so that they will run properly (the value is set to false).
+
+## Git Pull
+
+It is also good to run 'git pull origin master' in the terminal to make sure you have an updated version of the repository before making any changes. 
