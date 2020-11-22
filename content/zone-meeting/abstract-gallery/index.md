@@ -7,7 +7,7 @@ summary: 'View submitted presentations!'
 
 ## Presentation Gallery
 
-*Here are some of the submitted and accepted presentations:* 
+*Here are the submitted and accepted presentations:* 
 
 ---
 
