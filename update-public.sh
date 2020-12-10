@@ -11,6 +11,10 @@ hugo -t hugo-whisper-theme # if using a theme, replace with `hugo -t <YOURTHEME>
 # Go To Public folder
 cd public
 
+git checkout master
+
+git pull origin master
+
 # Add changes to git.
 git add .
 

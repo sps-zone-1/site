@@ -26,7 +26,7 @@ After you clone the repo, you need to include all submodules, which needs to be 
 
 ## 0. Pull changes
 
- **Always make sure that your local copy is up to date before you start making your own changes!** By running `git status`, you can check if your local copy is up to date. You can then pull remote changes from Github by using `git pull` or `git pull origin main`.
+ **Always make sure that your local copy is up to date before you start making your own changes!** By running `git status`, you can check if your local copy is up to date. You can then pull remote changes from Github by using `git pull` or `git pull origin main` on the main repo, and each submodule. Alternatively, just use `./pull-updates.sh` !
 
 ## 1. Adding Pages 
 
@@ -48,7 +48,7 @@ This step can be skipped if you don't intend for changes, such as those in draft
 
 Great, now you have generated html pages and added them to the public `sps-zone-1/sps-zone-1.github.io` repository. It is equally important to push changes made to markdown files in this repo (`sps-zone-1/site` repository), so that everyone stays on the same page. 
 
-**Please again make sure that your local copy is up to date before you do this!** Just as in step 0, you can make sure of this by pulling any changes from Github by using `git pull` or `git pull origin main`.
+**Please again make sure that your local copy is up to date before you do this!** Just as in step 0, you can make sure of this by pulling any changes from Github by using `git pull` or `git pull origin main` on the main repo, and each submodule. Alternatively, just use `./pull-updates.sh` !
 
 Finally, run `./update-project.sh` (or `./update-project-windows.sh` on windows). Feel free to open up this script to see exactly what this script is doing. 
 
