@@ -54,4 +54,4 @@ Finally, run `./update-project.sh` (or `./update-project-windows.sh` on windows)
 
 ## 5. Update changes to the theme (optional)
 
-Most likely, you will never need to modify the theme repo submodule. However, if you do, then again make sure to test on a locally hosted site, pull remote changes, and only then run `/update-theme.sh` to push changes to the `sps-zone-1/hugo-theme-stack` repository submodule within the `/themes/hugo-whisper-theme` folder of this repository. 
+Most likely, you will never need to modify the theme repo submodule. However, if you do, then again make sure to test on a locally hosted site, pull remote changes, and only then run `/update-theme.sh` to push changes to the `sps-zone-1/hugo-whisper-theme` repository submodule within the `/themes/hugo-whisper-theme` folder of this repository. 
