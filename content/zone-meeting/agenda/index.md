@@ -35,6 +35,8 @@ _Please note that all times are listed in **Eastern Time**._
 
 ### Diversity and Inclusion Panel *(3:00PM - 4:00PM)*
 
+*Check out the recording of the panel [here](https://youtu.be/OiPt9oaFuUs)*
+
 *Check out some wonderful resources [here](https://sps-zone-1.github.io/resources/underrepresented-groups/).*
 
 *The final formal event for the Fall 2020 Zone 1 meeting will be a panel discussion between Professors from co-hosts Yale and Brown on the topic of Diversity and Inclusion in Physics. The panel list will include esteemed Professors:*
