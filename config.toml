@@ -18,6 +18,11 @@ summaryLength = 30
     weight = 1
 
 [[menu.main]]
+    name = "Zone Meeting Spring 2022"
+    url = "/zone-meeting-2022/"
+    weight = 2
+
+[[menu.main]]
     name = "Zone Meeting"
     url = "/zone-meeting/"
     weight = 2
@@ -34,10 +39,10 @@ summaryLength = 30
 
 
 [params]
-  mainSections = ["zone-meeting", "resources", "contact"] #make sure to add new pages to the mainSections!!
+  mainSections = ["zone-meeting", "zone-meeting-2022", "resources", "contact"] #make sure to add new pages to the mainSections!!
 
   google_analytics_id=""
-  homepage_button_link = '/zone-meeting'
+  homepage_button_link = '/zone-meeting-2022'
   homepage_button_text = 'Zone Meeting Sign-up and Information'
   homepage_intro = 'This is the Society of Physics Students Zone 1 site.'
   homepage_image = '/images/sps.gif'
