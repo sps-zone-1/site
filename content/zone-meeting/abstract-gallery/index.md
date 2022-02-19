@@ -9,6 +9,8 @@ summary: 'View submitted presentations!'
 
 *Here are some of the submitted and accepted presentations:* 
 
+### Fall 2020
+
 ---
 
 **Adam Furman**, 
