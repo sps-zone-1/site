@@ -8,6 +8,8 @@ printf "\033[0;32mDeploying updates to project repo...\033[0m\n"
 # Stopping CRLF to LF conversion
 git config --local core.autocrlf false
 
+git pull origin master
+
 # Add changes to git.
 git add .
 

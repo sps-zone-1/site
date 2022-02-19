@@ -14,6 +14,9 @@ cd public
 # Stopping CRLF to LF conversion
 git config --local core.autocrlf false
 
+git checkout master
+
+git pull origin master
 
 # Add changes to git.
 git add .
