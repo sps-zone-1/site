@@ -25,6 +25,8 @@ _Please note that all times are listed in **Eastern Time**._
 * [*Ramamurti Shankar (Yale)*](https://campuspress.yale.edu/rshankar/)
 * [*Steve Lamoreaux (Yale)*](https://physics.yale.edu/people/steve-lamoreaux)
 * [*Karsten Heeger (Yale)*](https://heegerlab.yale.edu/karsten-heeger)
+* [*Sarah Demers (Yale)*](https://physics.yale.edu/people/sarah-demers)
+* [*Daisuke Nagai (Yale)*](https://physics.yale.edu/people/daisuke-nagai)
 
 ### Chapter Social Activity *(2:00PM - 3:00PM)*
 
