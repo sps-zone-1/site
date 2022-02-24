@@ -5,6 +5,11 @@ weight: 2
 summary: 'Events on Feb 26th, 2022. Socializing, research presentations, panels..'
 ---
 
+_**Zoom:** [click here](https://brown.zoom.us/j/91005561365)_
+
+_**Gathertown:** [click here](https://app.gather.town/events/5goVmlUBbm9Q5MpeojtB)_
+_*Password: spszone1*_
+
 _Please note that all times are listed in **Eastern Time**._
 
 # February 26th, 2022
